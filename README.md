@@ -1,2 +1,2 @@
 # CurrentDate
-get current date by using async await api call method in SwiftUI
+get current date by using async await api call method in SwiftUI using MVVM pattern
