@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "23690C65-BEEA-4684-9E00-654A4429EA23"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1994C2A-97C7-4475-9E2B-986A9CA30965"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "currentTimeSwiftUI/WebService/Webservice.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "webRequest(apiRequestBuilder:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B936FE64-314D-4946-A691-37F10E20C4F2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "currentTimeSwiftUI/WebService/Webservice.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "webRequest(apiRequestBuilder:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B936FE64-314D-4946-A691-37F10E20C4F2 - b0be166e5f00d296"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for currentTimeSwiftUI.Webservice.webRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(apiRequestBuilder: currentTimeSwiftUI.ApiBuilder&lt;&#x3c4;_0_0&gt;) async throws -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "currentTimeSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishanth/Desktop/currentTimeSwiftUI/currentTimeSwiftUI/WebService/Webservice.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "648">
+               </Location>
+               <Location
+                  uuid = "B936FE64-314D-4946-A691-37F10E20C4F2 - 508859b94a00e28d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for currentTimeSwiftUI.Webservice.webRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(apiRequestBuilder: currentTimeSwiftUI.ApiBuilder&lt;&#x3c4;_0_0&gt;) async throws -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "currentTimeSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishanth/Desktop/currentTimeSwiftUI/currentTimeSwiftUI/WebService/Webservice.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "B936FE64-314D-4946-A691-37F10E20C4F2 - b95bc53795499e94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for currentTimeSwiftUI.Webservice.webRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(apiRequestBuilder: currentTimeSwiftUI.ApiBuilder&lt;&#x3c4;_0_0&gt;) async throws -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "currentTimeSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishanth/Desktop/currentTimeSwiftUI/currentTimeSwiftUI/WebService/Webservice.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "B936FE64-314D-4946-A691-37F10E20C4F2 - 4285e2643076fc95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for currentTimeSwiftUI.Webservice.webRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(apiRequestBuilder: currentTimeSwiftUI.ApiBuilder&lt;&#x3c4;_0_0&gt;) async throws -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "currentTimeSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishanth/Desktop/currentTimeSwiftUI/currentTimeSwiftUI/WebService/Webservice.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,18 @@
+//
+//  ContentView.swift
+//  currentTimeSwiftUI
+//
+//  Created by Nishanth on 24/08/24.
+//
+
+import SwiftUI
+
+struct ContentView: View {
+    var body: some View {
+       ListScreen()
+    }
+}
+
+#Preview {
+    ContentView()
+}
